@@ -1,0 +1,2 @@
+- beginnt, sobald während der Strukturphase erste Stärke in den Markt kommt
+- entstehen die ersten Dominanzkerzen - bewegt den Markt in eine klare Richtung

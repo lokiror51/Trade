@@ -1,0 +1,7 @@
+- häufig eine ruhige Marktphase vor größeren Bewegungen im Marktentstehen
+- der Markt bewegt sich langsamer
+- kleinere Kerzen
+- weniger Momentum
+- keine klare Dominanz zw. Käufern und Verkäufern
+- entstehen häufig Sammelkerzen
+- dient oft als Vorbereitung für größere Marktbewegungen
