@@ -7,5 +7,6 @@ Bei Long-Zonen:
 
 Bei Short-Zonen:
 - Den tiefsten Punkt der Sammelkerzen markieren ohne Docht [[Reaktionslinie]]
+- Den obersten Punkt der Sammelkerze markieren inkl. Docht [[Invalidierungslinie]]
 
 ![[Pasted image 20260822130102.png|281]]
