@@ -28,6 +28,13 @@
 *Risk : Reward = 1 : 3*
 *Man riskiert also 1R, um 3R zu gewinnen*
 
+# Ein wichtiger Grundsatz:
+## Beim Trading sollte man nicht zuerst denken:
+> „Wie kann ich möglichst viel Gewinn machen?“
+## Sondern:
+> „Wie viel bin ich bereit zu verlieren, wenn meine Idee falsch ist?“
+## Das ist der Kern von Risk Management. Ohne gutes Risk Management kann selbst eine profitable Strategie langfristig zum Problem werden.
+
 --------------------------
 
 # Positionsgröße und Hebel
@@ -174,9 +181,3 @@ Ask = Preis, zu dem man kaufen kann
 *= Higher High + Higher Low → typischer Aufwärtstrend.*
 
 
-# Ein wichtiger Grundsatz:
-## Beim Trading sollte man nicht zuerst denken:
-> ## „Wie kann ich möglichst viel Gewinn machen?“
-## Sondern:
-> ## „Wie viel bin ich bereit zu verlieren, wenn meine Idee falsch ist?“
-## Das ist der Kern von Risk Management. Ohne gutes Risk Management kann selbst eine profitable Strategie langfristig zum Problem werden.
