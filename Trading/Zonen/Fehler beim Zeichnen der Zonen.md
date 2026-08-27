@@ -12,7 +12,7 @@
 4. **keine Expansion**!
 	- weist oft auf eine fehlende Kontrolle im Markt hin
 
-5. gegen die Markstruktur traden!!!!
+5. **gegen die Markstruktur traden!!!!**
 	- viele traden Long-Zonen gegen starke bärische Marktstruktur
 	- viele traden Short-Zonen gegen starke bullische Marktstruktur
 
