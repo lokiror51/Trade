@@ -87,6 +87,8 @@
 **Market Order** - Du kaufst/verkaufst sofort zum aktuellen verfügbaren Preis
 **Limit Order** - Du legst einen Preis fest, zu dem zu kaufen/verkaufen möchtest
 **Stop Order** - eine Order wird erst aktiviert, wenn ein bestimmter Preis erreicht wird
+**Trading Session** - Zeitraum, in dem ein Markt normal gehandelt werden kann.
+**Off trading session** = Der Markt befindet sich gerade außerhalb dieser Zeit.
 
 **Spread** - Der Unterschied zwischen:
 Bid = Preis, zu dem man verkaufen kann
